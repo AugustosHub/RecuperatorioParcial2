@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700143376 source:c:\users\administrador\desktop\recuperatorio-augusto\recuperatorio-augusto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
